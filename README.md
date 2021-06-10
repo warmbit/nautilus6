@@ -7,4 +7,5 @@ Nautilus6 is a beauty of the sea emitting rainbow colour from within
 
 ## Nautilus6
 
-![Nautilus6 Top](/nautilus6-1a.png)
+![Nautilus6 Top](/nautilus6-a1.png)
+
